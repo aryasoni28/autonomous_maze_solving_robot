@@ -1,4 +1,4 @@
-# autonomous_maze_solving_robot
+# Autonomous_maze_solving_robot
 
 This project demonstrates an autonomous TurtleBot3 robot navigating through a maze environment using SLAM (via Cartographer) and the Nav2 stack inside a Gazebo Classic simulation. The robot builds a map of the environment in real-time and uses global/local planning to reach target locations while avoiding obstacles.
 
